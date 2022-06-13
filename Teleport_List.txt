@@ -1,0 +1,106 @@
+Ammo: 247.365f, -45.8775f, 69.9411f
+Barber: -1293.23f, -1117.0f, 6.64031.f
+Benny: -205.337f, -1305.82f, 31.3528f
+LSC: -367.728f, -130.855f, 38.6782f
+Ponsonbys: -159.299f, -304.329f, 39.7333
+Tattoo: 319.788f, 172.231f, 103.745f
+
+
+Michael House: -813.603, Y: 179.474f, 72.157f
+Franklin House O: -14.3799f, -1438.51f, 31.1044f
+Franklin House N: 7.11917f, 536.615f, 176.028f
+Trevor House: 1972.61f, 3817.04f, 33.4283f
+Trevor House 2: -1151.77f, -1518.14f, 10.6327f
+Trevor Office: 97.271f, -1290.99f, 29.2688f
+
+
+Airport Entrance: -1034.6f, -2733.6f, 13.7607f
+Airport Runway: -1335.93f, -3045.56f, 13.9444f
+Cult Camp: -1170.84f, 4926.65f, 224.295f
+Train Bride: -517.869f, 4425.28f, 89.7952f
+Cargo Ship: 899.678f, -2882.19f, 19.013f
+Family Pier: -3426.68f, 967.738f, 8.34681f
+Del Perro Pier: -1850.13f, -1231.75f, 13.0172f
+Mansion: -2639.87f, 1866.81f, 160.135f
+El Burro Heights: 1384f, -2057.1f, 51.9991f
+Elysian Island: 338.2f, -2715.9f, 38.4636f
+Far North: 24.775f, 7644.1f, 19.0559f
+Ferris Wheel: -1670.7f, -1125f, 13.0384f
+Fort Zancudo Runway: -2047.4f, 3132.1f, 32.8065f
+Fort Zancudo Tower: -2358.13f, 3249.75f, 101.451f
+Jetsam: 760.4f, -2943.2f, 5.80042f
+Ghost (3 AM): 3059.62f, 5564.25f, 197.091f
+Kortz Center: -2243.81f, 264.048f, 174.615f
+Vineyards: -1868.97f, 2095.67f, 139.115f
+McKenzie Airfield: 2121.7f, 4796.3f, 41.1096f
+Merryweather Dock: 486.417f, -3339.69f, 6.06994f
+Mineshaft: -595.342f, 2086.01f, 131.412f
+Mount Chiliad: 450.718f, 5566.61f, 806.183f
+Life Invader Roof: -1076.26f, -247.144f, 57.9219f
+NOOSE Headquarters: 2535.24f, -383.799f, 92.9929f
+Pacific Standard Bank: 235.046f, 216.434f, 106.287f
+Paleto Bay Pier: -275.522f, 6635.83f, 7.42527f
+Playboy Mansion: -1475.23f, 167.088f, 55.8411f
+Police Station: 436.491f, -982.172f, 30.6988f
+Quarry: 2954.2f, 2783.41f, 41.0034f
+Sandy Shores Airfield: 1747.0f, 3273.7f, 41.1293f
+Satellite Dishes: 2062.12f, 2942.05f, 47.4308f
+Sisyphus Theater Stage: 686.245f, 577.95f, 130.461f
+Meth Lab: 1391.77f, 3608.72f, 38.9419f
+Weed Farm: 2208.78f, 5578.23f, 53.7352f
+Wind Farm: 2354f, 1830.3f, 101.144f
+
+
+Crane Top: -119.879f, -977.357f, 304.249f
+FIB Building Roof: 150.126f, -754.591f, 262.865f
+Galileo Observatory Roof: -438.804f, 1076.1f, 352.41f
+IAA Building Roof: 134.085f, -637.859f, 262.851f
+Maze Bank Roof: -75.015f, -818.215f, 326.176f
+Palmer-Tayolor Power Station Chimney: 2732.93f, 1577.54f, 83.6709f
+Sandy Shores Building Site Crane: 1051.21f, 2280.45f, 89.7272f
+Satellite Dish: 2034.99f, 2953.1f, 74.6006f
+Sky High: -598.67f, -42.9338f, 1545.55f
+UFO: -2052f, 3237f, 1456.92f
+Windmill Top: 2026.5f, 1842.66f, 133.316f
+
+
+Hatch: 4274.35f, 2975.32f, -170.664f
+Sea Monster: -3373.49f, 504.355f, -24.5992f
+Sunken Body: -3160.83f, 3001.62f, -37.9278f
+Sunken Cargo Ship: 3199.99f, -379.378f, -22.4584f
+Sunken Plane: -942.118f, 6608.4f, -20.8703f
+Tank: 4201.9f, 3643.55f, -38.9659f
+Tunnel: 3838.76f, 3672.75f, -19.681f
+UFO: 762.744f, 7380.04f, -111.345f
+
+
+10 Car Garage: 229.357f, -992.911f, -98.9999f
+2 Car Garage: 173.29f, -1003.6f, -99.057f
+6 Car Garage: 197.815f, -1002.29f, -98.967f
+Impound Lot: 391.475f, -1637.97f, 29.3148f
+LSPD Character Creator: 402.668f, -1003f, -99.004f
+Mission Carpark: 405.936f, -954.091f, -99.0041f
+Mors Mutual Impound: -222.198f, -1185.85f, 23.0294f
+
+
+Ammunition Gun Range: 22.153f, -1072.85f, 29.797f
+Bahama Mamas West: -1387.08f, -588.4f, 30.3195f
+Blaine County Bank: -109.299f, 6464.04f, 31.6268f
+Car Showroom: -57.6615f, -1097.59f, 26.4224f
+East Los Santos Foundry: 1080.57f, -1974.98f, 31.0016f
+FIB Building Burnt: 159.553f, -738.851f, 246.152f
+FIB Building Floor 47: 134.573f, -766.486f, 234.152f
+FIB Building Floor 49: 134.635f, -765.831f, 242.152f
+FIB Building Top Floor: 135.733f, -749.216f, 258.152f
+Humane Labs Lower Level: 3525.5f, 3705.3f, 20.9919f
+Humane Labs Upper Level: 3618.52f, 3755.76f, 28.5191f
+IAA Office: 117.22f, -620.938f, 206.047f
+Janitor's Appartment: -110.721f, -8.22095f, 70.5196f
+Lester's House: 1273.9f, -1719.3f, 54.7713f
+Motel Room: 152.261f, -1004.47f, -99.0f
+Omega's Garage: 2330.62f, 2572.61f, 46.6801f
+ONeil's Farm: 2454.78f, 4971.92f, 46.5822f
+Split Sides Comedy Club: 377.089f, -991.869f, -98.6044f
+Strip Club: 126.121f, -1278.51f, 29.2696f
+Torture Room: 136.514f, -2203.15f, 7.30914f
+Trevor's Trailer Clean: 1975.55f, 3820.54f, 33.4446f
